@@ -17,8 +17,8 @@ Split and merge the image using cv2.split and cv2.merge commands.
 End the program and close the output image windows.
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By: Sai Praneeth K
+# Register Number: 212222230067
 ```
 # i) Convert BGR and RGB to HSV and GRAY
 ```python
